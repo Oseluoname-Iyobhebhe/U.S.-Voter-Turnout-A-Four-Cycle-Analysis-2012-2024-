@@ -18,6 +18,9 @@
 ### Project Overview
 This project examines the dynamics of voter participation in U.S. presidential elections, focusing on four election cycles from 2012 to 2024. The study aims to identify key trends, patterns, and potential factors influencing voter participation rates over this twelve-year period. 
 
+![Screenshot 2025-04-02 11 24 33 PM](https://github.com/user-attachments/assets/24e337de-7a8a-49d3-978e-692fe7d2f1f2)
+
+
 ### Data Sources
 The data for this project was sourced from [United States Election Project](https://www.electproject.org/), a platform that provides national and state-level voter turnout statistics.
 
@@ -39,18 +42,32 @@ The data was cleaned using pandas dataframe in python. The steps taken in the da
   - Research Question 4: How do ineligibility factors (prison, probation, parole, and felony disenfranchisement) compare between states with the highest and lowest voter turnout rates?
 
 
- ### Data Analysis and Visualization
- The data was analysed and visualised using python libraries pandas, matplotlib.plyplot, and seaborn. The steps taken in this process and the results can be found in the file attached. 
+ ### Data Analysis
+ The data was analysed using python. The steps taken in this process and the results can be found in the file attached. 
 
 ### Findings 
 - Research Question 1:
 Voter turnout has generally increased from 2012 to 2020, peaking in 2020 before slightly declining in 2024. VEP turnout is consistently higher than VAP turnout, highlighting the impact of ineligibility factors. The surge in 2020 likely resulted from heightened political engagement, while the 2024 dip may indicate voter fatigue or changing political dynamics.
 
+![R1Viz](https://github.com/user-attachments/assets/cb9aaffb-ed82-4716-8823-b125322528dc)
+
+
 - Research Question 2:
 State-level turnout varies widely, with states like Hawaii and Oklahoma consistently showing lower participation, while Minnesota and Wisconsin lead in engagement. These differences suggest that factors such as voting laws, accessibility, and civic culture influence turnout. Low-turnout states may benefit from targeted outreach and policy changes.
 
+![R22](https://github.com/user-attachments/assets/c2120837-da21-4533-b7f4-0b34e42bff88)
+
+
 - Research Question 3:
 A strong correlation exists among different forms of voting ineligibility, particularly felony disenfranchisement. Higher noncitizen percentages correlate weakly with lower turnout, but other factors likely contribute. States with the lowest turnout tend to have higher ineligibility rates, reinforcing the impact of restrictive voting laws on participation.
+
+![R3Viz1](https://github.com/user-attachments/assets/5f3ad2bb-0d5a-4563-ac9a-839aec7acce6) ![R3Viz2](https://github.com/user-attachments/assets/edb55048-3887-45a2-b356-2906c4078ec4)
+
+- Research Question 4
+The findings reveal stark differences in voter turnout based on ineligibility factors such as prison, probation, parole, and felony disenfranchisement. States with the lowest voter turnout, like Texas, have significantly higher ineligibility rates, particularly among felons and parolees, suggesting that stricter disenfranchisement policies may contribute to lower electoral participation. In contrast, high-turnout states such as Minnesota and Wisconsin have much lower levels of ineligibility, indicating fewer legal barriers to voting. Additionally, ineligible parole and probation counts remain relatively low in most states, except where overall disenfranchisement is already high.
+
+  ![RR33](https://github.com/user-attachments/assets/fffaf59f-c934-4d14-8311-cfc09fd9db4c) ![R44](https://github.com/user-attachments/assets/6e6d1ecc-d0db-4ac6-b151-3f460d4d4a76)
+
 
 ### Recommendations 
 - Low-turnout states should implement targeted voter education campaigns to address apathy and misinformation, particularly in communities with historically low participation.
