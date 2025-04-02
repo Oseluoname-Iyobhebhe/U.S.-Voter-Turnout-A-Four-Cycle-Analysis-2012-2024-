@@ -31,7 +31,7 @@ Python(Pandas; matplotlib.pyplot; and seaborn)
 The data was downloaded in CSV file from the website
 
 ### Data Preparation
-The data was cleaned using pandas dataframe in python. The steps taken in the data preparaation process can be found in the file attached.
+The data was cleaned using pandas dataframe in python. The steps taken in the data preparaation process can be found in the file attached titled "New_project_clean_A".
 
 
   ### Research Questions
@@ -43,7 +43,7 @@ The data was cleaned using pandas dataframe in python. The steps taken in the da
 
 
  ### Data Analysis
- The data was analysed using python. The steps taken in this process and the results can be found in the file attached. 
+ The data was analysed using python. The steps taken in this process and the results can be found in the file attached titled "New_project_clean_A". 
 
 ### Findings 
 - Research Question 1:
