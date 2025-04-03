@@ -82,7 +82,7 @@ The findings reveal stark differences in voter turnout based on ineligibility fa
 
 ### Limitations
 
-- The analysis did not account for differences in state populations. Since larger states may face more logistical challenges in voter mobilization and smaller states might have higher engagement percentages, this omission limits the ability to fully contextualize turnout differences.  
+- The analysis did not account for differences in state populations. This omission limits the ability to fully contextualize turnout differences.  
 
 - While the analysis identifies relationships between voter turnout and ineligibility factors (e.g., felony disenfranchisement), it does not establish direct causation. Other socio-political and economic factors may also influence turnout.  
 
