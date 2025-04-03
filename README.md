@@ -81,18 +81,15 @@ The findings reveal stark differences in voter turnout based on ineligibility fa
 - Policymakers should conduct state-level assessments to identify unique challenges—whether logistical, legal, or social—that prevent eligible voters from participating and implement targeted interventions accordingly.
 
 ### Limitations
-- Some states may report voter eligibility and turnout data differently, leading to inconsistencies in the analysis.
 
-- While trends were identified, we cannot directly prove that factors like felon disenfranchisement or noncitizen percentages cause lower voter turnout.
+- The analysis did not account for differences in state populations. Since larger states may face more logistical challenges in voter mobilization and smaller states might have higher engagement percentages, this omission limits the ability to fully contextualize turnout differences.  
 
-- Socioeconomic conditions, voter suppression laws, and political climate were not fully accounted for, though they likely impact turnout.
+- While the analysis identifies relationships between voter turnout and ineligibility factors (e.g., felony disenfranchisement), it does not establish direct causation. Other socio-political and economic factors may also influence turnout.  
 
-- Findings apply at the state level but may not reflect local variations within states, such as urban vs. rural differences.
+- The dataset may not capture all nuances of voter participation, such as same-day registration impacts, changes in voter ID laws, or grassroots mobilization efforts.  
 
-- Turnout can be influenced by specific candidates, key issues, or major events in a given election year, which were not isolated in this study.
+- Factors like candidate popularity, political events, and policy changes unique to each election cycle were not included, though they likely played a role in turnout fluctuations.  
 
-- Self-reported or administrative voting records may not capture unregistered eligible voters or other hidden barriers to participation.
-  
 ### References 
 United States Elections Project(n.d).Retrieved from https://www.electproject.org/
 
